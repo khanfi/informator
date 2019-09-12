@@ -1,0 +1,62 @@
+﻿[
+  {
+    "id": "FF:FF:C5:16:83:CF",
+    "uuid": "61E15DCE-D0C8-219A-C00A-F7950AF207A8",
+    "name": "Location1",
+    "description": "Conf. Room 7",
+    "selected": false,
+    "rssi": "-1000",
+    "timestamp": "",
+    "image": "img/room2.jpg"
+  },
+  {
+    "id": "FF:FF:C2:2E:8A:A8",
+    "uuid": "A724FF1A-9830-A0B3-B477-0F405AD3EFB0",
+    "name": "Location2",
+    "description": "Printer",
+    "selected": false,
+    "rssi": "-1000",
+    "timestamp": "",
+    "image": "img/room1.jpg"
+  },
+  {
+    "id": "FF:FF:C2:2E:B6:50",
+    "uuid": "9D662824-73B1-A1DF-A32F-2C2B6AC4F8D4",
+    "name": "Location3",
+    "description": "Cafeteria",
+    "selected": false,
+    "rssi": "-1000",
+    "timestamp": "",
+    "image": "img/room1.jpg"
+  },
+  {
+    "id": "FF:FF:00:00:53:A2",
+    "uuid": "4FEF0F17-945B-C9CF-5709-28C87EAE7B29",
+    "name": "Location4",
+    "description": "Server Room",
+    "selected": false,
+    "rssi": "-1000",
+    "timestamp": "",
+    "image": "img/room1.jpg"
+  },
+  {
+    "id": "01:AC:78:E6:53:6E",
+    "uuid": "5931C85A-4645-DEFB-8996-596E3836CB79",
+    "name": "Location5",
+    "description": "GOC Room",
+    "selected": false,
+    "rssi": "-1000",
+    "timestamp": "",
+    "image": "img/room2.jpg"
+  },
+  {
+    "id": "FF:FF:C1:07:4F:76",
+    "uuid": "7A2E951D-70FA-F446-1A35-12AF0F9B3329",
+    "name": "Location6",
+    "description": "I2 Team",
+    "selected": false,
+    "rssi": "-1000",
+    "timestamp": "",
+    "image": "img/room1.jpg"
+  }
+]
